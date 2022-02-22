@@ -1,0 +1,5 @@
+Nur Natasha SS123434 010-2321212 ABC123 Other Jitra Kedah Lecturer FakultiAlamBina JabatanUkur
+Zahra Aisyah SS232345 019-9876767 WORD123 UTM Lumut Perak Lecturer FakultiPendidikan JabatanMatematik
+Hazman Hazmi SS343456 010-9090675 ABC123 UTM Skudai Johor Lecturer FakultiElektrikal JabatanElektrik
+Dilan Suparno SS212323 019-4534564 ABC123 Other BatuAir Bandung Lecturer FakultiKomputeran JabatanSistemMaklumat
+Jamil Jamali S434343 019-0986681 ABC123 UTM Skudai Johor Lecturer FakultiPendidikan JabatanSains
